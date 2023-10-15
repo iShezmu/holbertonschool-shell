@@ -47,3 +47,5 @@
 *  18-letteronly
    - Display all lines of the file `/etc/ssh/sshd_config` starting with a letter.
      - Include capital letters as well.
+*  19-AZ
+   - Replace all characters `A` and `c` from input to `z` and `e` respectively.
