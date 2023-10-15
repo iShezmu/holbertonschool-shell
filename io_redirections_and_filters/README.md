@@ -51,3 +51,5 @@
    - Replace all characters `A` and `c` from input to `z` and `e` respectively.
 *  20-hiago
    - Create a script that removes all letters `c`and `C`from input.
+*  21-reverse
+   - Write a script that reverse its input.
