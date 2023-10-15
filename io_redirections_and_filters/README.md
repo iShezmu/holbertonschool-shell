@@ -49,3 +49,5 @@
      - Include capital letters as well.
 *  19-AZ
    - Replace all characters `A` and `c` from input to `z` and `e` respectively.
+*  20-hiago
+   - Create a script that removes all letters `c`and `C`from input.
